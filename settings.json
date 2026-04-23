@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ptg14-39GD.aternos.me",
-    "port": 36969,
+    "ip": "ptg14.aternos.me",
+    "port": 29763,
     "version": "1.21.11",
     "try-creative": false
   },
